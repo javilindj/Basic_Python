@@ -1,6 +1,6 @@
 miLista=["Javi","Antonio","Pedro",3,5] * 3 # Poniendo el multiplicador al final, se multiplica la lista por el número que le indicamos
 
-#miLista.append("Cesar") Añadimos al final de la lista 
+miLista.append("Cesar") # Añadimos al final de la lista 
 
 #miLista.insert(1,"Juan") Para insertar a un elemento a la lista, nos pide índice y elemento.
 
